@@ -1,0 +1,1 @@
+ENCYCLOPE is a local encyclopedia that allows you to search, collect and read Wikipedia articles directly on your computer. The project is currently available only in French and is still in beta. A future version will support multiple languages.
