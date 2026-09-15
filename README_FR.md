@@ -1,0 +1,1 @@
+ENCYCLOPE est une encyclopédie locale qui permet de rechercher, collecter et lire des articles Wikipédia directement sur son ordinateur. Le projet est actuellement disponible uniquement en français et est encore en version bêta. Une future version prendra en charge plusieurs langues.
